@@ -18,6 +18,7 @@ public class PersonaUtils {
 			persona = toPersona(results);
 		}
 		return persona;
+		//probando
 //		if(results.next()) {
 //			String name = results.getString(2);
 //			String apellido = results.getString(3);
